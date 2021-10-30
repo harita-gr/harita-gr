@@ -42,7 +42,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How To Use Deep Selectors In Selenium WebdriverIO](https://www.lambdatest.com/blog/deep-selectors-in-selenium-webdriverio/)
+- [Jest vs Mocha vs Jasmine: Comparing The Top 3 JavaScript Testing Frameworks](https://www.lambdatest.com/blog/jest-vs-mocha-vs-jasmine/)
+- [Using Page Object Model (POM) Pattern In Selenium JavaScript](https://www.lambdatest.com/blog/using-page-object-model-pattern-in-javascript-with-selenium)
+- [Automation Testing with Selenium JavaScript [Tutorial]](https://www.lambdatest.com/blog/automation-testing-with-selenium-javascript/)
+- [A Comprehensive Guide To JavaScript Design Patterns](https://www.lambdatest.com/blog/comprehensive-guide-to-javascript-design-patterns/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.lambdatest.com/blog/author/haritaravindranath/)
@@ -51,9 +55,6 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-
-
 </details>
 
 <details>
@@ -62,9 +63,3 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-
-- [How To Use Deep Selectors In Selenium WebdriverIO](https://www.lambdatest.com/blog/deep-selectors-in-selenium-webdriverio/)
-- [Jest vs Mocha vs Jasmine: Comparing The Top 3 JavaScript Testing Frameworks](https://www.lambdatest.com/blog/jest-vs-mocha-vs-jasmine/)
-- [Using Page Object Model (POM) Pattern In Selenium JavaScript](https://www.lambdatest.com/blog/using-page-object-model-pattern-in-javascript-with-selenium)
-- [Automation Testing with Selenium JavaScript [Tutorial]](https://www.lambdatest.com/blog/automation-testing-with-selenium-javascript/)
-- [A Comprehensive Guide To JavaScript Design Patterns](https://www.lambdatest.com/blog/comprehensive-guide-to-javascript-design-patterns/)
