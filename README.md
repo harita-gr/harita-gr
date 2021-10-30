@@ -1,3 +1,6 @@
+<img src="" alt="Harita - Fullstack developer"/>
+
+
 ## Hi there, I'm Harita 👋
 ### I'm a Fullstack Developer and Technical Blogger!!
 
