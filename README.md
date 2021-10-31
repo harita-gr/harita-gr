@@ -1,4 +1,4 @@
-<img src="https://github.com/harita-gr/harita-gr/blob/8afced220b539148bfa605f3ef9590d988d846e0/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner%20(1).png" alt="Harita - Fullstack developer"/>
+<img src="https://github.com/harita-gr/harita-gr/blob/0a2cddd3fb72b1ed5c918140c81e62b4ae516463/banner.png" alt="Harita - Fullstack developer"/>
 
 
 ## Hi there, I'm Harita 👋
