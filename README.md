@@ -36,7 +36,8 @@
 <img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-64.png" />
 <img align="left" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-64.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
-<img align="left" alt="Eclipse" width="26px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" />
+<img align="left" alt="Eclipse" width="26px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" /> 
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-64.png" />
 
