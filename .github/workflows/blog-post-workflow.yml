@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: harita-gr/harita-gr@master
+        uses: harita-gr/harita-gr@main
         with:
           feed_list: "https://www.lambdatest.com/blog/author/haritaravindranath/"
           max_post_count: 5
