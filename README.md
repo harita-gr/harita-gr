@@ -78,9 +78,11 @@
 ### GitHub Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harita-gr" alt="harita-gr" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harita-gr&show_icons=true&locale=en&layout=compact" alt="harita-gr" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=harita-gr&show_icons=true&locale=en" alt="harita-gr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harita-gr&show_icons=true&locale=en" alt="harita-gr" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harita-gr&show_icons=true&locale=en&layout=compact" alt="harita-gr" /></p>
+
+<br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harita-gr&" alt="harita-gr" /></p>
 
