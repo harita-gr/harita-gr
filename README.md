@@ -62,9 +62,7 @@
 ---
 
 ### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Angular Testing With Jasmine And Karma Using Selenium [Tutorial]](https://www.lambdatest.com/blog/angular-testing-with-jasmine-and-karma/)
 - [How To Use Deep Selectors In Selenium WebdriverIO](https://www.lambdatest.com/blog/deep-selectors-in-selenium-webdriverio/)
 - [Jest vs Mocha vs Jasmine: Comparing The Top 3 JavaScript Testing Frameworks](https://www.lambdatest.com/blog/jest-vs-mocha-vs-jasmine/)
 - [Using Page Object Model (POM) Pattern In Selenium JavaScript](https://www.lambdatest.com/blog/using-page-object-model-pattern-in-javascript-with-selenium)
