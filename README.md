@@ -7,8 +7,8 @@
 ---
 
 - 👀 I’m interested in Web Development and Software Testing
-- 🔭 Checkout my blogs [here](https://www.lambdatest.com/blog/author/haritaravindranath/)
-- 🌱 I’m currently learning Next.js
+- 🔭 Checkout my blogs at [LambdaTest Blogs](https://www.lambdatest.com/blog/author/haritaravindranath/) || [Copycat Blogs](https://www.copycat.dev/blog/author/harita/)
+- 🌱 I’m currently learning Next.js & AWS
 - ⚡ Fun fact: I am a Japanese language student (JLPT N4 Certified)
 
 ### 📫 Reach me at:
