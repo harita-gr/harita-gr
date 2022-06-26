@@ -6,7 +6,7 @@
 
 ---
 
-- 👀 I’m interested in Web Development and Software Testing
+- 👀 I’m interested in Web Development |Software Testing | Digital Marketing
 - 🔭 Checkout my blogs at: &nbsp;&nbsp;&nbsp;&nbsp;
     [<img align="center" alt="LambdaTest" width="100px" height="20px" src="https://iconape.com/wp-content/png_logo_vector/lambdatest-logo.png"/>](https://www.lambdatest.com/blog/author/haritaravindranath/) &nbsp;&nbsp;
     [<img align="center" alt="Copycat" width="100px" height="20px" src="https://uploads-ssl.webflow.com/602a49b4c90708f6641a192e/6120bd865c8d971592d7d18f_cat-logo.svg"/>](https://www.copycat.dev/blog/author/harita/)&nbsp;&nbsp;
