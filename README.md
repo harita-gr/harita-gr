@@ -27,7 +27,7 @@
 
 ---
 
-### <img align="left" title="tools" alt="HTML5" width="26px" src="https://www.svgrepo.com/show/295398/code.svg"/>&nbsp;Languages and Tools:
+### <img align="left" title="tools" alt="HTML5" width="24px" src="https://www.svgrepo.com/show/295398/code.svg"/>&nbsp;Languages and Tools:
 
 <img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
