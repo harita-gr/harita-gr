@@ -62,14 +62,12 @@
 <img align="left" title="Karma" alt="Karma" width="26px" src="https://www.svgrepo.com/show/373723/karma.svg" />
 <img align="left" title="Jasmine" alt="Jasmine" width="26px" src="https://www.svgrepo.com/show/353922/jasmine.svg" /> 
 <img align="left" title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" /> 
-
 <br />
 
 ---
 
-<br />
-
 ### 📕 Latest Blog Posts
+
 - [Reactjs Build Production: Creating a Deployment Build](https://www.copycat.dev/blog/reactjs-build-production/)
 - [Angular Testing With Jasmine And Karma Using Selenium [Tutorial]](https://www.lambdatest.com/blog/angular-testing-with-jasmine-and-karma/)
 - [How To Use Deep Selectors In Selenium WebdriverIO](https://www.lambdatest.com/blog/selenium-with-java/)
