@@ -6,7 +6,7 @@
 
 ---
 
-- 👀 I’m interested in Web Development |Software Testing | Digital Marketing
+- 👀 I’m interested in Web Development | Software Testing | Digital Marketing
 - 🔭 Checkout my blogs at: &nbsp;&nbsp;&nbsp;&nbsp;
     [<img align="center" alt="LambdaTest" width="100px" height="20px" src="https://iconape.com/wp-content/png_logo_vector/lambdatest-logo.png"/>](https://www.lambdatest.com/blog/author/haritaravindranath/) &nbsp;&nbsp;
     [<img align="center" alt="Copycat" width="100px" height="20px" src="https://uploads-ssl.webflow.com/602a49b4c90708f6641a192e/6120bd865c8d971592d7d18f_cat-logo.svg"/>](https://www.copycat.dev/blog/author/harita/)&nbsp;&nbsp;
@@ -61,11 +61,13 @@
 <img align="left" title="Cucumber" alt="Cucumber" width="26px" src="https://www.svgrepo.com/show/373538/cucumber.svg" />
 <img align="left" title="Karma" alt="Karma" width="26px" src="https://www.svgrepo.com/show/373723/karma.svg" />
 <img align="left" title="Jasmine" alt="Jasmine" width="26px" src="https://www.svgrepo.com/show/353922/jasmine.svg" /> 
-<img align="left" title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" />
+<img align="left" title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" /> 
 
 <br />
 
 ---
+
+<br />
 
 ### 📕 Latest Blog Posts
 - [Reactjs Build Production: Creating a Deployment Build](https://www.copycat.dev/blog/reactjs-build-production/)
