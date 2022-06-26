@@ -7,9 +7,16 @@
 ---
 
 - 👀 I’m interested in Web Development and Software Testing
-- 🔭 Checkout my blogs at [LambdaTest Blogs](https://www.lambdatest.com/blog/author/haritaravindranath/) || [Copycat Blogs](https://www.copycat.dev/blog/author/harita/)
+- 🔭 Checkout my blogs at:
+
+    [<img align="left" alt="LambdaTest" width="100px" height="20px" src="https://iconape.com/wp-content/png_logo_vector/lambdatest-logo.png"/>](https://www.lambdatest.com/blog/author/haritaravindranath/)
+    [<img align="left" alt="Copycat" width="100px" height="20px" src="https://uploads-ssl.webflow.com/602a49b4c90708f6641a192e/6120bd865c8d971592d7d18f_cat-logo.svg"/>](https://www.copycat.dev/blog/author/harita/)
+    [<img align="left" alt="LambdaTest" width="100px" height="15px" src="https://upload.vectorlogo.zone/logos/medium/images/77ebde58-1ffc-4da3-8097-ec8efa49c3db.svg"/>](https://haritaravindranath.medium.com/)
+<br/>
 - 🌱 I’m currently learning Next.js & AWS
 - ⚡ Fun fact: I am a Japanese language student (JLPT N4 Certified)
+
+---
 
 ### 📫 Reach me at:
 
@@ -19,6 +26,8 @@
 [<img align="left" alt="Stackoverflow" width="22px" src="https://www.svgrepo.com/show/349517/stackoverflow.svg" />](https://stackoverflow.com/users/13745388/harita-ravindranath)
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -57,15 +66,14 @@
 <img align="left" title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" />
 
 <br />
-<br />
 
 ---
 
 ### 📕 Latest Blog Posts
+- [Reactjs Build Production: Creating a Deployment Build](https://www.copycat.dev/blog/reactjs-build-production/)
 - [Angular Testing With Jasmine And Karma Using Selenium [Tutorial]](https://www.lambdatest.com/blog/angular-testing-with-jasmine-and-karma/)
-- [How To Use Deep Selectors In Selenium WebdriverIO](https://www.lambdatest.com/blog/deep-selectors-in-selenium-webdriverio/)
+- [How To Use Deep Selectors In Selenium WebdriverIO](https://www.lambdatest.com/blog/selenium-with-java/)
 - [Jest vs Mocha vs Jasmine: Comparing The Top 3 JavaScript Testing Frameworks](https://www.lambdatest.com/blog/jest-vs-mocha-vs-jasmine/)
-- [Using Page Object Model (POM) Pattern In Selenium JavaScript](https://www.lambdatest.com/blog/using-page-object-model-pattern-in-javascript-with-selenium)
 - [Automation Testing with Selenium JavaScript [Tutorial]](https://www.lambdatest.com/blog/automation-testing-with-selenium-javascript/)
 - [A Comprehensive Guide To JavaScript Design Patterns](https://www.lambdatest.com/blog/comprehensive-guide-to-javascript-design-patterns/)
 
