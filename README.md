@@ -1,4 +1,4 @@
-<img src="https://github.com/harita-gr/harita-gr/blob/0a2cddd3fb72b1ed5c918140c81e62b4ae516463/banner.png" alt="Harita - Fullstack developer"/>
+<img src="https://github.com/harita-gr/harita-gr/blob/515154d4a32744ca34686b29df09093c3200d57c/banner.gif.gif" alt="Harita - Fullstack developer"/>
 
 <h1 align="center">Hi there 👋, I'm Harita</h1>
 <h3 align="center">I'm a Fullstack Developer and Technical Blogger!!</h3>
