@@ -29,14 +29,14 @@
 
 ### 👩‍💻 Languages and Tools:
 
-<img  title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img  title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img  title="Sass" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
-<img  title="Bootstrap" alt="Bootstrap" width="26px" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" />
-<img  title="TailwindCSS" alt="TailwindCSS" width="26px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" />
-<img  title="MaterialUI" alt="MaterialUI" width="26px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
+<img align="left"  title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" title="Sass" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
+<img align="left" title="Bootstrap" alt="Bootstrap" width="26px" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" />
+<img align="left"  title="TailwindCSS" alt="TailwindCSS" width="26px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" />
+<img  align="left" title="MaterialUI" alt="MaterialUI" width="26px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
 
-<img  title="JavaScript" alt="JavaScript" width="26px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" />
+<img  align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" />
 <img  title="Typescript" alt="Typescript" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" />
 <img  title="Java" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-64.png" />
 
