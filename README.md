@@ -42,7 +42,7 @@
 <img align="left" title="Typescript" alt="Typescript" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" />
 </div>
 
-<div align="center">
+<div align="left">
 <img  title="Java" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-64.png" />
 
 <img  title="React" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -54,9 +54,12 @@
 <img  title="Postman" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img  title="Strapi" alt="Strapi" width="26px" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" />
 
+</div>
+
+<div align="right">
 <img  title="MySQL" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-64.png" />
 
-</div>
+
 
 <img  title="MongoDB" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 
@@ -68,6 +71,8 @@
 <img  title="Selenium" alt="Selenium" width="26px" src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-64.png" />
 <img  title="Cucumber" alt="Cucumber" width="26px" src="https://www.svgrepo.com/show/373538/cucumber.svg" />
 <img  title="Karma" alt="Karma" width="26px" src="https://www.svgrepo.com/show/373723/karma.svg" />
+
+</div>
 <img  title="Jasmine" alt="Jasmine" width="26px" src="https://www.svgrepo.com/show/353922/jasmine.svg" /> 
 <img  title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" /> 
 <br />
