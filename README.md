@@ -8,9 +8,9 @@
 
 - 👀 I’m interested in Web Development | Software Testing | Digital Marketing
 - 🔭 Checkout my blogs at: &nbsp;&nbsp;&nbsp;&nbsp;
-    [<img align="center" alt="LambdaTest" title="LambdaTest" width="100px" height="20px" src="https://iconape.com/wp-content/png_logo_vector/lambdatest-logo.png"/>](https://www.lambdatest.com/blog/author/haritaravindranath/) || &nbsp;&nbsp;
-    [<img align="center" alt="Copycat" width="100px" height="20px" title="Copycat" src="https://github.com/harita-gr/harita-gr/blob/168f0a525b8d93f12f7679e9ae78024994dc641b/6120bd865c8d971592d7d18f_cat-logo_prev_ui.png"/>](https://www.copycat.dev/blog/author/harita/) || &nbsp;&nbsp;
-    [<img align="center" alt="Medium" title="Medium" width="100px" height="15px" src="https://upload.vectorlogo.zone/logos/medium/images/77ebde58-1ffc-4da3-8097-ec8efa49c3db.svg"/>](https://haritaravindranath.medium.com/)    
+  [<img align="center" alt="LambdaTest" title="LambdaTest" width="100px" height="20px" src="https://iconape.com/wp-content/png_logo_vector/lambdatest-logo.png"/>](https://www.lambdatest.com/blog/author/haritaravindranath/) || &nbsp;&nbsp;
+  [<img align="center" alt="Copycat" width="100px" height="20px" title="Copycat" src="https://github.com/harita-gr/harita-gr/blob/168f0a525b8d93f12f7679e9ae78024994dc641b/6120bd865c8d971592d7d18f_cat-logo_prev_ui.png"/>](https://www.copycat.dev/blog/author/harita/) || &nbsp;&nbsp;
+  [<img align="center" alt="Medium" title="Medium" width="100px" height="15px" src="https://upload.vectorlogo.zone/logos/medium/images/77ebde58-1ffc-4da3-8097-ec8efa49c3db.svg"/>](https://haritaravindranath.medium.com/)
 - 🌱 I’m currently learning Next.js & AWS
 - ⚡ Fun fact: I am a Japanese language student (JLPT N4 Certified)
 
@@ -29,6 +29,7 @@
 
 ### 👩‍💻 Languages and Tools:
 
+<div align="center">
 <img align="left"  title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" title="Sass" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
@@ -37,7 +38,11 @@
 <img  align="left" title="MaterialUI" alt="MaterialUI" width="26px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
 
 <img  align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" />
-<img  title="Typescript" alt="Typescript" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" />
+
+<img align="left" title="Typescript" alt="Typescript" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" />
+</div>
+
+<div align="center">
 <img  title="Java" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-64.png" />
 
 <img  title="React" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -50,6 +55,9 @@
 <img  title="Strapi" alt="Strapi" width="26px" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" />
 
 <img  title="MySQL" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-64.png" />
+
+</div>
+
 <img  title="MongoDB" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 
 <img  title="Eclipse" alt="Eclipse" width="26px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" /> 
@@ -80,6 +88,7 @@
 ---
 
 ### GitHub Stats
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harita-gr" alt="harita-gr" /></a> </p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harita-gr&show_icons=true&locale=en" alt="harita-gr" /></p>
@@ -96,10 +105,3 @@
 </p>
 
 ---
-
-
-
-
-
-
-
