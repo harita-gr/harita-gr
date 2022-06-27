@@ -43,38 +43,38 @@
 </div>
 
 <div align="left">
-<img  title="Java" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-64.png" />
+<img align="left"  title="Java" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-64.png" />
 
-<img  title="React" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img  title="Angular" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img  title="Next.js" alt="Next.js" width="26px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
-<img  title="Redux" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+<img align="left" title="React" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" title="Angular" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" title="Next.js" alt="Next.js" width="26px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
+<img align="left" title="Redux" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 
-<img  title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img  title="Postman" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img  title="Strapi" alt="Strapi" width="26px" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" />
-
-</div>
-
-<div align="right">
-<img  title="MySQL" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-64.png" />
-
-
-
-<img  title="MongoDB" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
-
-<img  title="Eclipse" alt="Eclipse" width="26px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" /> 
-<img  title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />
-
-<img  title="Git" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-64.png" />
-
-<img  title="Selenium" alt="Selenium" width="26px" src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-64.png" />
-<img  title="Cucumber" alt="Cucumber" width="26px" src="https://www.svgrepo.com/show/373538/cucumber.svg" />
-<img  title="Karma" alt="Karma" width="26px" src="https://www.svgrepo.com/show/373723/karma.svg" />
+<img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" title="Postman" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" title="Strapi" alt="Strapi" width="26px" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" />
 
 </div>
-<img  title="Jasmine" alt="Jasmine" width="26px" src="https://www.svgrepo.com/show/353922/jasmine.svg" /> 
-<img  title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" /> 
+
+<div align="left">
+<img align="left" title="MySQL" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-64.png" />
+
+
+
+<img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+
+<img align="left" title="Eclipse" alt="Eclipse" width="26px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" /> 
+<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />
+
+<img align="left" title="Git" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-64.png" />
+
+<img align="left" title="Selenium" alt="Selenium" width="26px" src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-64.png" />
+<img align="left" title="Cucumber" alt="Cucumber" width="26px" src="https://www.svgrepo.com/show/373538/cucumber.svg" />
+<img align="left" title="Karma" alt="Karma" width="26px" src="https://www.svgrepo.com/show/373723/karma.svg" />
+
+</div>
+<img align="left" title="Jasmine" alt="Jasmine" width="26px" src="https://www.svgrepo.com/show/353922/jasmine.svg" /> 
+<img align="left" title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" /> 
 <br />
 
 ---
