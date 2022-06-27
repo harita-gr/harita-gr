@@ -9,7 +9,7 @@
 - 👀 I’m interested in Web Development | Software Testing | Digital Marketing
 - 🔭 Checkout my blogs at: &nbsp;&nbsp;&nbsp;&nbsp;
     [<img align="center" alt="LambdaTest" title="LambdaTest" width="100px" height="20px" src="https://iconape.com/wp-content/png_logo_vector/lambdatest-logo.png"/>](https://www.lambdatest.com/blog/author/haritaravindranath/) || &nbsp;&nbsp;
-    [<img align="center" alt="Copycat" width="100px" height="20px" title="Copycat" src="https://github.com/harita-gr/harita-gr/blob/665a9beb072a8c3307b1838f159e63b835f988d7/6120bd865c8d971592d7d18f_cat-logo-removebg-preview.png"/>](https://www.copycat.dev/blog/author/harita/) || &nbsp;&nbsp;
+    [<img align="center" alt="Copycat" width="100px" height="20px" title="Copycat" src="https://github.com/harita-gr/harita-gr/blob/168f0a525b8d93f12f7679e9ae78024994dc641b/6120bd865c8d971592d7d18f_cat-logo_prev_ui.png"/>](https://www.copycat.dev/blog/author/harita/) || &nbsp;&nbsp;
     [<img align="center" alt="Medium" title="Medium" width="100px" height="15px" src="https://upload.vectorlogo.zone/logos/medium/images/77ebde58-1ffc-4da3-8097-ec8efa49c3db.svg"/>](https://haritaravindranath.medium.com/)    
 - 🌱 I’m currently learning Next.js & AWS
 - ⚡ Fun fact: I am a Japanese language student (JLPT N4 Certified)
@@ -27,41 +27,41 @@
 
 ---
 
-### <img align="left" title="tools" alt="HTML5" width="24px" src="https://www.svgrepo.com/show/295398/code.svg"/>&nbsp;Languages and Tools:
+### 👩‍💻 Languages and Tools:
 
-<img align="left" title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" title="Sass" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
-<img align="left" title="Bootstrap" alt="Bootstrap" width="26px" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" />
-<img align="left" title="TailwindCSS" alt="TailwindCSS" width="26px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" />
-<img align="left" title="MaterialUI" alt="MaterialUI" width="26px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
+<img  title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img  title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img  title="Sass" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
+<img  title="Bootstrap" alt="Bootstrap" width="26px" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" />
+<img  title="TailwindCSS" alt="TailwindCSS" width="26px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" />
+<img  title="MaterialUI" alt="MaterialUI" width="26px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
 
-<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" />
-<img align="left" title="Typescript" alt="Typescript" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" />
-<img align="left" title="Java" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-64.png" />
+<img  title="JavaScript" alt="JavaScript" width="26px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" />
+<img  title="Typescript" alt="Typescript" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" />
+<img  title="Java" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-64.png" />
 
-<img align="left" title="React" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" title="Angular" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" title="Next.js" alt="Next.js" width="26px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
-<img align="left" title="Redux" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+<img  title="React" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img  title="Angular" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img  title="Next.js" alt="Next.js" width="26px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
+<img  title="Redux" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 
-<img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" title="Postman" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" title="Strapi" alt="Strapi" width="26px" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" />
+<img  title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img  title="Postman" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img  title="Strapi" alt="Strapi" width="26px" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" />
 
-<img align="left" title="MySQL" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-64.png" />
-<img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+<img  title="MySQL" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-64.png" />
+<img  title="MongoDB" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 
-<img align="left" title="Eclipse" alt="Eclipse" width="26px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" /> 
-<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />
+<img  title="Eclipse" alt="Eclipse" width="26px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" /> 
+<img  title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />
 
-<img align="left" title="Git" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-64.png" />
+<img  title="Git" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-64.png" />
 
-<img align="left" title="Selenium" alt="Selenium" width="26px" src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-64.png" />
-<img align="left" title="Cucumber" alt="Cucumber" width="26px" src="https://www.svgrepo.com/show/373538/cucumber.svg" />
-<img align="left" title="Karma" alt="Karma" width="26px" src="https://www.svgrepo.com/show/373723/karma.svg" />
-<img align="left" title="Jasmine" alt="Jasmine" width="26px" src="https://www.svgrepo.com/show/353922/jasmine.svg" /> 
-<img align="left" title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" /> 
+<img  title="Selenium" alt="Selenium" width="26px" src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-64.png" />
+<img  title="Cucumber" alt="Cucumber" width="26px" src="https://www.svgrepo.com/show/373538/cucumber.svg" />
+<img  title="Karma" alt="Karma" width="26px" src="https://www.svgrepo.com/show/373723/karma.svg" />
+<img  title="Jasmine" alt="Jasmine" width="26px" src="https://www.svgrepo.com/show/353922/jasmine.svg" /> 
+<img  title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" /> 
 <br />
 
 ---
