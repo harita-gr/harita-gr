@@ -91,7 +91,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harita-gr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harita-gr&show_icons=true&locale=en" alt="harita-gr" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harita-gr&show_icons=true&locale=en&theme=dark" alt="harita-gr" /></p>
 ---
 
 <p align="center"> 
