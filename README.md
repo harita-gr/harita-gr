@@ -85,7 +85,7 @@
 ### :fire: GitHub Stats
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harita-gr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=harita-gr&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harita-gr&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats)
 
