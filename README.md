@@ -97,8 +97,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harita-gr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harita-gr" alt="harita-gr" /></a> </p>
-
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harita-gr&show_icons=true&locale=en" alt="harita-gr" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harita-gr&show_icons=true&locale=en&layout=compact" alt="harita-gr" /></p>
