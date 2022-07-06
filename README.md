@@ -12,7 +12,7 @@
   [<img align="center" alt="Copycat" width="100px" height="20px" title="Copycat" src="https://github.com/harita-gr/harita-gr/blob/168f0a525b8d93f12f7679e9ae78024994dc641b/6120bd865c8d971592d7d18f_cat-logo_prev_ui.png"/>](https://www.copycat.dev/blog/author/harita/) || &nbsp;&nbsp;
   [<img align="center" alt="Medium" title="Medium" width="100px" height="15px" src="https://upload.vectorlogo.zone/logos/medium/images/77ebde58-1ffc-4da3-8097-ec8efa49c3db.svg"/>](https://haritaravindranath.medium.com/)
 - 🌱 I’m currently learning Next.js & AWS
-- ⚡ Fun fact: I am a Japanese language student (JLPT N4 Certified)
+- ⚡ Fun fact: I am a Japanese language student (Pursuing JLPT N2)
 
 ---
 
@@ -87,7 +87,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harita-gr&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harita-gr&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harita-gr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harita-gr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
