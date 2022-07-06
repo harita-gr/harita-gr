@@ -27,9 +27,8 @@
 
 ---
 
-### 👩‍💻 Languages and Tools:
+### :hammer_and_wrench: Languages and Tools:
 
-<div align="center">
 <img align="left"  title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" title="Sass" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
@@ -40,9 +39,7 @@
 <img  align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" />
 
 <img align="left" title="Typescript" alt="Typescript" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" />
-</div>
 
-<div align="left">
 <img align="left"  title="Java" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-64.png" />
 
 <img align="left" title="React" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -54,13 +51,7 @@
 <img align="left" title="Postman" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" title="Strapi" alt="Strapi" width="26px" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" />
 
-</div>
-
-<div align="left">
 <img align="left" title="MySQL" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-64.png" />
-
-
-
 <img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 
 <img align="left" title="Eclipse" alt="Eclipse" width="26px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" /> 
@@ -72,7 +63,6 @@
 <img align="left" title="Cucumber" alt="Cucumber" width="26px" src="https://www.svgrepo.com/show/373538/cucumber.svg" />
 <img align="left" title="Karma" alt="Karma" width="26px" src="https://www.svgrepo.com/show/373723/karma.svg" />
 
-</div>
 <img align="left" title="Jasmine" alt="Jasmine" width="26px" src="https://www.svgrepo.com/show/353922/jasmine.svg" /> 
 <img align="left" title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" /> 
 <br />
@@ -92,17 +82,16 @@
 
 ---
 
-### GitHub Stats
+### :fire: GitHub Stats
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harita-gr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harita-gr&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harita-gr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harita-gr&show_icons=true&locale=en" alt="harita-gr" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harita-gr&show_icons=true&locale=en&layout=compact" alt="harita-gr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harita-gr&" alt="harita-gr" /></p>
-
 ---
 
 <p align="center"> 
