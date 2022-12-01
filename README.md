@@ -50,6 +50,7 @@
 <img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" title="Postman" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" title="Strapi" alt="Strapi" width="26px" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" />
+<img align="left" title="Firebase" alt="Firebase" width="26px" src="https://www.svgrepo.com/show/373595/firebase.svg" />
 
 <img align="left" title="MySQL" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-64.png" />
 <img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
