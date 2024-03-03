@@ -82,8 +82,6 @@
 
 ➡️ [more blog posts...](https://www.lambdatest.com/blog/author/haritaravindranath/)
 
-<a href="https://app.daily.dev/harry_toboso"><img src="https://api.daily.dev/devcards/a4ac417d497d485fa9314836f9b208f8.png?r=dyo" width="400" alt="Harita Ravindranath's Dev Card"/></a>
-
 ---
 
 ### :fire: GitHub Stats
