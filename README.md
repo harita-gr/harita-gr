@@ -11,7 +11,7 @@
   [<img align="center" alt="LambdaTest" title="LambdaTest" width="100px" height="20px" src="https://iconape.com/wp-content/png_logo_vector/lambdatest-logo.png"/>](https://www.lambdatest.com/blog/author/haritaravindranath/) || &nbsp;&nbsp;
   [<img align="center" alt="Copycat" width="100px" height="20px" title="Copycat" src="https://github.com/harita-gr/harita-gr/blob/168f0a525b8d93f12f7679e9ae78024994dc641b/6120bd865c8d971592d7d18f_cat-logo_prev_ui.png"/>](https://www.copycat.dev/blog/author/harita/) || &nbsp;&nbsp;
   [<img align="center" alt="Medium" title="Medium" width="100px" height="15px" src="https://upload.vectorlogo.zone/logos/medium/images/77ebde58-1ffc-4da3-8097-ec8efa49c3db.svg"/>](https://haritaravindranath.medium.com/)
-- 🌱 I’m currently learning Firebase & AWS
+- 🌱 I’m currently learning Python and pursuing certification in ML/AI.
 - ⚡ Fun fact: I am a Japanese language student (Pursuing JLPT N2)
 
 ---
