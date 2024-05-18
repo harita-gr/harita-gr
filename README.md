@@ -5,7 +5,8 @@
   , I'm Harita
 </h1>
 
-<h3 align="center">I'm a Fullstack Developer and Technical Blogger!!</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=238636&center=true&vCenter=true&random=false&width=1000&lines=Fullstack+Developer;Software+Tester+;Technical+Content+Writer;AI%2FML+Enthusiast)](https://git.io/typing-svg)
+
 <p align="right"> <a href="https://twitter.com/harita_ravi01" target="blank"><img src="https://img.shields.io/twitter/follow/harita_ravi01?logo=twitter&style=for-the-badge" alt="harita_ravi01" /></a> </p>
 
 ---
@@ -22,6 +23,7 @@
 
 ### 📫 Reach me at:
 
+[<img align="left" alt="Gmail" width="22px" src="https://www.svgrepo.com/show/349378/gmail.svg"/>](mailto:haritagr16@gmail.com/)
 [<img align="left" alt="LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />](https://www.linkedin.com/in/harita-ravindranath/)
 [<img align="left" alt="Instagram" width="22px" src="https://www.svgrepo.com/show/157806/instagram.svg" />](https://www.instagram.com/harrytoboso/)
 [<img align="left" alt="Twitter" width="22px" src="https://www.svgrepo.com/show/349537/twitter.svg" />](https://twitter.com/harita_ravi01)
@@ -33,45 +35,91 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 
-<img align="left"  title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="left" title="Sass" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
-<img align="left" title="Bootstrap" alt="Bootstrap" width="26px" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" />
-<img align="left"  title="TailwindCSS" alt="TailwindCSS" width="26px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" />
-<img  align="left" title="MaterialUI" alt="MaterialUI" width="26px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
+<p align=center>
+ <kbd>
+   <kbd>Programming Languages</kbd>
+   <br><br>
+   <img title="JavaScript" alt="JavaScript" width="26px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" />
+   <img title="Typescript" alt="Typescript" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" />
+   <img title="Java" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-64.png" />
+   <img title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ </kbd>
+  <br>
 
-<img  align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://www.svgrepo.com/show/303206/javascript-logo.svg" />
+  <kbd>
+   <kbd>Frontend</kbd>
+   <br><br>
+   <img title="HTML5" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+   <img title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+   <img title="Sass" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
+    <img title="Markdown" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
+   <img title="Bootstrap" alt="Bootstrap" width="26px" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" />
+   <img title="TailwindCSS" alt="TailwindCSS" width="26px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" />
+   <img title="MaterialUI" alt="MaterialUI" width="26px" src="https://www.svgrepo.com/show/354048/material-ui.svg" />
+   <img title="React" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+   <img title="Angular" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+   <img title="Next.js" alt="Next.js" width="26px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
+ </kbd>
 
-<img align="left" title="Typescript" alt="Typescript" width="26px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" />
+  <kbd>
+   <kbd>Backend</kbd>
+   <br><br>
+   <img title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+   <img title="Postman" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+   <img title="Strapi" alt="Strapi" width="26px" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" />
+   <img title="Firebase" alt="Firebase" width="26px" src="https://www.svgrepo.com/show/373595/firebase.svg" />
+ </kbd>
+   <br>
 
-<img align="left"  title="Java" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-64.png" />
 
-<img align="left" title="React" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" title="Angular" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" title="Next.js" alt="Next.js" width="26px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" />
-<img align="left" title="Redux" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+   <kbd>
+   <kbd>Database</kbd>
+   <br><br>
+   <img title="MySQL" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-64.png" />
+   <img title="PgSQL" alt="PgSQL" width="26px" src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/postgresql-branding-icon-symbol-logo-vector-.png" />
+   <img title="MongoDB" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+   <img title="Firebase" alt="Firebase" width="26px" src="https://www.svgrepo.com/show/373595/firebase.svg" />
+ </kbd>
 
-<img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" title="Postman" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" title="Strapi" alt="Strapi" width="26px" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" />
-<img align="left" title="Firebase" alt="Firebase" width="26px" src="https://www.svgrepo.com/show/373595/firebase.svg" />
+   <kbd>
+   <kbd>Libraries</kbd>
+   <br><br>
+   <img title="Redux" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+   <img title="Stripe" alt="Stripe" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsX675RaIlDiVX-sq6caKYdthgagxcvGn88TquUfvua4xgEYj0Xo0ulZJIzts0quwS_N0&usqp=CAU" />
+   <img title="Storybook" alt="Storybook" width="26px" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-1645x2048-ir1mrc43.png" />
+  <img title="GSAP" alt="GSAP" width="26px" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" />
+ </kbd>
+   <br>
 
-<img align="left" title="MySQL" alt="MySQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4943187881553750385-64.png" />
-<img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+  <kbd>
+   <kbd>Automation Testing</kbd>
+   <br><br>
+   <img title="Selenium" alt="Selenium" width="26px" src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-64.png" />
+   <img title="Cucumber" alt="Cucumber" width="26px" src="https://www.svgrepo.com/show/373538/cucumber.svg" />
+   <img title="Karma" alt="Karma" width="26px" src="https://www.svgrepo.com/show/373723/karma.svg" />
+   <img title="Jasmine" alt="Jasmine" width="26px" src="https://www.svgrepo.com/show/353922/jasmine.svg" /> 
+   <img title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" />
+   <img title="WebdriverIO" alt="WebdriverIO" width="26px" src="https://camo.githubusercontent.com/f70fbef5f2a9e1a756a8edb3cf21170f29d256747f672ff769b8be951c3fe388/68747470733a2f2f7765626472697665722e696f2f6173736574732f696d616765732f726f626f742d33363737373838646436333834396335366161356362336633333262313264352e737667" /> 
+   <img title="Nightwatch" alt="Nightwatch" width="26px" src="https://nightwatchjs.org/img/logo-nightwatch.png" />
+   <img title="Lambda Test" alt="Lambda Test" width="26px" src="https://www.lambdatest.com/logo.png" />
+ </kbd>
 
-<img align="left" title="Eclipse" alt="Eclipse" width="26px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" /> 
-<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />
+   <kbd>
+   <kbd>IDE</kbd>
+   <br><br>
+   <img title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />
+   <img title="Eclipse" alt="Eclipse" width="26px" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" /> 
+   <img title="Colab" alt="Colab" width="26px" src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" />
+   <img title="IntelliJ" alt="Visual Studio Code" width="26px" src="https://www.helenjoscott.com/wp-content/uploads/2020/09/1200px-IntelliJ_IDEA_Logo.png" />
+ </kbd>
 
+  <kbd>
+   <kbd>Others</kbd>
+   <br><br>
 <img align="left" title="Git" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-64.png" />
-
-<img align="left" title="Selenium" alt="Selenium" width="26px" src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-64.png" />
-<img align="left" title="Cucumber" alt="Cucumber" width="26px" src="https://www.svgrepo.com/show/373538/cucumber.svg" />
-<img align="left" title="Karma" alt="Karma" width="26px" src="https://www.svgrepo.com/show/373723/karma.svg" />
-
-<img align="left" title="Jasmine" alt="Jasmine" width="26px" src="https://www.svgrepo.com/show/353922/jasmine.svg" /> 
-<img align="left" title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" /> <br />
-
-<br />
+ </kbd>
+ 
+</p>
 
 ---
 
@@ -93,10 +141,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harita-gr&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div align=center>
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harita-gr&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harita-gr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</p>
+
+### My Contributions Graph
 <p align="center"> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harita-gr/harita-gr/71a7ac69a2b5822bc2a15887d1248d59830fa40d/github-contribution-grid-snake-dark.svg" />
