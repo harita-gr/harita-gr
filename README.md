@@ -98,12 +98,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harita-gr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harita-gr/harita-gr/71a7ac69a2b5822bc2a15887d1248d59830fa40d/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harita-gr/harita-gr/71a7ac69a2b5822bc2a15887d1248d59830fa40d/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/harita-gr/harita-gr/71a7ac69a2b5822bc2a15887d1248d59830fa40d/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
+
 ---
 
 <p align="center"> 
