@@ -7,7 +7,7 @@
 
 <h3 align="center"> I'M A:</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=238636&center=true&vCenter=true&random=false&width=1000&lines=Fullstack+Developer;Software+Tester+;Technical+Content+Writer;AI%2FML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=238636&center=true&vCenter=true&random=false&width=1000&lines=Fullstack+Developer;Project+Manager;Software+Tester+;Technical+Content+Writer;AI%2FML+Enthusiast)](https://git.io/typing-svg)
 
 <p align="right"> <a href="https://twitter.com/harita_ravi01" target="blank"><img src="https://img.shields.io/twitter/follow/harita_ravi01?logo=twitter&style=for-the-badge" alt="harita_ravi01" /></a> </p>
 
