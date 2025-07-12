@@ -12,13 +12,20 @@
 <p align="right"> <a href="https://twitter.com/harita_ravi01" target="blank"><img src="https://img.shields.io/twitter/follow/harita_ravi01?logo=twitter&style=for-the-badge" alt="harita_ravi01" /></a> </p>
 
 ---
+🧠 Interests:  
+- Web Development | Automation Testing | Software Architecture | Project Management  
+- Developer Productivity | Tech Blogging | Japanese Linguistics
 
-- 👀 I’m interested in Web Development | Project Management | Software Testing | Digital Marketing
-- 🔭 Checkout my blogs at: &nbsp;&nbsp;&nbsp;&nbsp;
+🌱 I’m currently:  
+- Refining my skills in Next.js, Docker, and System Architecture  
+- Preparing for technical interviews 
+- Writing blogs to make tech approachable for everyone
+- Working towards JLPT N2 certification.
+
+ 🔭 Checkout my blogs at: &nbsp;&nbsp;&nbsp;&nbsp;
   [<img align="center" alt="LambdaTest" title="LambdaTest" width="100px" height="20px" src="https://iconape.com/wp-content/png_logo_vector/lambdatest-logo.png"/>](https://www.lambdatest.com/blog/author/haritaravindranath/) || &nbsp;&nbsp;
   [<img align="center" alt="Copycat" width="100px" height="20px" title="Copycat" src="https://github.com/harita-gr/harita-gr/blob/168f0a525b8d93f12f7679e9ae78024994dc641b/6120bd865c8d971592d7d18f_cat-logo_prev_ui.png"/>](https://www.copycat.dev/blog/author/harita/) || &nbsp;&nbsp;
   [<img align="center" alt="Medium" title="Medium" width="100px" height="15px" src="https://upload.vectorlogo.zone/logos/medium/images/77ebde58-1ffc-4da3-8097-ec8efa49c3db.svg"/>](https://medium.com/@haritagr16)
-- ⚡ Fun fact:  I'm also a Japanese language enthusiast, working towards JLPT N2 certification.
 
 ---
 
@@ -66,9 +73,11 @@
    <kbd>Backend</kbd>
    <br><br>
    <img title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+     <img title="Express" alt="Express" width="26px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>
    <img title="Postman" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
    <img title="Strapi" alt="Strapi" width="26px" src="https://www.svgrepo.com/show/354399/strapi-icon.svg" />
    <img title="Firebase" alt="Firebase" width="26px" src="https://www.svgrepo.com/show/373595/firebase.svg" />
+   <img title="Appwrite" alt="Appwrite" width="26px" src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"/>
  </kbd>
    <br>
 
@@ -82,12 +91,20 @@
    <img title="Firebase" alt="Firebase" width="26px" src="https://www.svgrepo.com/show/373595/firebase.svg" />
  </kbd>
 
+  <kbd>
+   <kbd>CI/CD</kbd>
+   <br><br>
+   <img title="Git" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+   <img title="Jenkins" alt="Jenkins" width="26px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+   <img title="Docker" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
+ </kbd>
+
    <kbd>
    <kbd>Libraries</kbd>
    <br><br>
    <img title="Redux" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
    <img title="Stripe" alt="Stripe" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsX675RaIlDiVX-sq6caKYdthgagxcvGn88TquUfvua4xgEYj0Xo0ulZJIzts0quwS_N0&usqp=CAU" />
-   <img title="Storybook" alt="Storybook" width="26px" src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-1645x2048-ir1mrc43.png" />
+   <img title="Storybook" alt="Storybook" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/storybook-icon.svg" />
   <img title="GSAP" alt="GSAP" width="26px" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" />
  </kbd>
    <br>
@@ -96,11 +113,11 @@
    <kbd>Automation Testing</kbd>
    <br><br>
    <img title="Selenium" alt="Selenium" width="26px" src="https://pics.freeicons.io/uploads/icons/png/15484977381551942825-64.png" />
+    <img title="Cypress" alt="Cypress" width="26px" src="https://www.svgrepo.com/show/439131/cypress.svg" /> 
    <img title="Cucumber" alt="Cucumber" width="26px" src="https://www.svgrepo.com/show/373538/cucumber.svg" />
    <img title="Karma" alt="Karma" width="26px" src="https://www.svgrepo.com/show/373723/karma.svg" />
    <img title="Jasmine" alt="Jasmine" width="26px" src="https://www.svgrepo.com/show/353922/jasmine.svg" /> 
    <img title="Jest" alt="Jest" width="26px" src="https://www.svgrepo.com/show/373700/jest.svg" />
-   <img title="WebdriverIO" alt="WebdriverIO" width="26px" src="https://camo.githubusercontent.com/f70fbef5f2a9e1a756a8edb3cf21170f29d256747f672ff769b8be951c3fe388/68747470733a2f2f7765626472697665722e696f2f6173736574732f696d616765732f726f626f742d33363737373838646436333834396335366161356362336633333262313264352e737667" /> 
    <img title="Nightwatch" alt="Nightwatch" width="26px" src="https://nightwatchjs.org/img/logo-nightwatch.png" />
    <img title="Lambda Test" alt="Lambda Test" width="26px" src="https://www.lambdatest.com/logo.png" />
  </kbd>
@@ -117,7 +134,7 @@
   <kbd>
    <kbd>Others</kbd>
    <br><br>
-<img align="left" title="Git" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-64.png" />
+    <img align="left" title="Salesforce" alt="Salesforce" width="26px" src="https://www.svgrepo.com/show/354306/salesforce.svg" />
  </kbd>
  
 </p>
