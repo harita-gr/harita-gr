@@ -13,12 +13,11 @@
 
 ---
 
-- 👀 I’m interested in Web Development | Software Testing | Digital Marketing
+- 👀 I’m interested in Web Development | Project Management | Software Testing | Digital Marketing
 - 🔭 Checkout my blogs at: &nbsp;&nbsp;&nbsp;&nbsp;
   [<img align="center" alt="LambdaTest" title="LambdaTest" width="100px" height="20px" src="https://iconape.com/wp-content/png_logo_vector/lambdatest-logo.png"/>](https://www.lambdatest.com/blog/author/haritaravindranath/) || &nbsp;&nbsp;
   [<img align="center" alt="Copycat" width="100px" height="20px" title="Copycat" src="https://github.com/harita-gr/harita-gr/blob/168f0a525b8d93f12f7679e9ae78024994dc641b/6120bd865c8d971592d7d18f_cat-logo_prev_ui.png"/>](https://www.copycat.dev/blog/author/harita/) || &nbsp;&nbsp;
-  [<img align="center" alt="Medium" title="Medium" width="100px" height="15px" src="https://upload.vectorlogo.zone/logos/medium/images/77ebde58-1ffc-4da3-8097-ec8efa49c3db.svg"/>](https://haritaravindranath.medium.com/)
-- 🌱 I’m currently learning Python and pursuing certification in ML/AI.
+  [<img align="center" alt="Medium" title="Medium" width="100px" height="15px" src="https://upload.vectorlogo.zone/logos/medium/images/77ebde58-1ffc-4da3-8097-ec8efa49c3db.svg"/>](https://medium.com/@haritagr16)
 - ⚡ Fun fact:  I'm also a Japanese language enthusiast, working towards JLPT N2 certification.
 
 ---
@@ -125,13 +124,10 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Popular Blog Posts
 
-- [Reactjs Build Production: Creating a Deployment Build](https://www.copycat.dev/blog/reactjs-build-production/)
+- [Mastering JavaScript: Generator Functions Made Easy!](https://medium.com/@haritagr16/mastering-javascript-generator-functions-made-easy-79f6d7c0400d)
 - [Angular Testing With Jasmine And Karma Using Selenium [Tutorial]](https://www.lambdatest.com/blog/angular-testing-with-jasmine-and-karma/)
-- [How To Use Deep Selectors In Selenium WebdriverIO](https://www.lambdatest.com/blog/selenium-with-java/)
-- [Jest vs Mocha vs Jasmine: Comparing The Top 3 JavaScript Testing Frameworks](https://www.lambdatest.com/blog/jest-vs-mocha-vs-jasmine/)
-- [Automation Testing with Selenium JavaScript [Tutorial]](https://www.lambdatest.com/blog/automation-testing-with-selenium-javascript/)
 - [A Comprehensive Guide To JavaScript Design Patterns](https://www.lambdatest.com/blog/comprehensive-guide-to-javascript-design-patterns/)
 
 ➡️ [more blog posts...](https://www.lambdatest.com/blog/author/haritaravindranath/)
