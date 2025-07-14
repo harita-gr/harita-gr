@@ -14,7 +14,7 @@
 ---
 🧠 Interests:  
 - Web Development | Automation Testing | Software Architecture | Project Management  
-- Developer Productivity | Tech Blogging | Japanese Linguistics
+- Developer Productivity | Tech Blogging | Japanese Language
 
 🌱 I’m currently:  
 - Refining my skills in Next.js, Docker, and System Architecture  
