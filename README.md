@@ -18,7 +18,6 @@
 
 🌱 I’m currently:  
 - Refining my skills in Next.js, Docker, and System Architecture  
-- Preparing for technical interviews 
 - Writing blogs to make tech approachable for everyone
 - Working towards JLPT N2 certification.
 
